@@ -1,0 +1,20 @@
+{
+  "name": "magnific-popup-theme",
+  "version": "1.0",
+  "homepage": "https://github.com/Rilong/magnific-popup-theme",
+  "authors": [
+    "Rilong <romgnatyuk@gmail.com>"
+  ],
+  "description": "theme for plugin magnific-popup",
+  "main": "demo.html",
+  "keywords": [
+    "magnific",
+    "popup",
+    "theme",
+    "magnific",
+    "popup",
+    "theme"
+  ],
+  "license": "MIT",
+  "private": true
+}
